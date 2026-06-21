@@ -16,7 +16,7 @@
 
 <p>
   <a href="#"><img src="https://img.shields.io/badge/RESUME-Download-00FF9D?style=for-the-badge&logo=readdotcv&logoColor=0D1117&labelColor=0D1117"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Site-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=0D1117&labelColor=0D1117"/></a>
+  <a href="https://venkatesh-99-cbs.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Site-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=0D1117&labelColor=0D1117"/></a>
   <a href="mailto:venkateshtambabathula99@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Get%20in%20Touch-FF005C?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=0D1117"/></a>
 </p>
 
@@ -230,7 +230,7 @@ A multi-page portfolio (`index.html`, `developer.html`, `security.html`) present
 - Separate developer & cybersecurity profile sections
 - Custom UI for project and certification showcase
 
-[`🔗 Repository`](https://github.com/venkatesh-99-cbs/portfolio) · [`🌐 Live Demo`](#)
+[`🔗 Repository`](https://github.com/venkatesh-99-cbs/portfolio) · [`🌐 Live Demo`](https://venkatesh-99-cbs.github.io/)
 
 </td>
 </tr>
@@ -324,7 +324,7 @@ A multi-page portfolio (`index.html`, `developer.html`, `security.html`) present
 <a href="https://linkedin.com/in/venkatesh-tambabathula">
   <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF"/>
 </a>
-<a href="#">
+<a href="https://venkatesh-99-cbs.github.io/">
   <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=firefox&logoColor=FF005C"/>
 </a>
 <a href="mailto:venkateshtambabathula99@gmail.com">
