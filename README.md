@@ -2,19 +2,22 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:00FFAB,100:00D9FF&height=220&section=header&text=Venkatesh%20Tambabathula&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Student%20%7C%20Python%20Developer%20%7C%20Security%20Research%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
-<!-- Custom animated glitch banner — commit assets/glitch-banner.svg to the repo for this to render -->
-<img src="https://raw.githubusercontent.com/venkatesh-99-cbs/venkatesh-99-cbs/main/assets/glitch-banner.svg" width="100%"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=15&pause=700&color=00FF9D&center=true&vCenter=true&width=820&height=32&lines=%5BOK%5D%20Initializing%20security%20modules...;%5BOK%5D%20Mounting%20encrypted%20filesystem...;%5BOK%5D%20Establishing%20secure%20channel...;%5BACCESS%20GRANTED%5D%20Welcome%2C%20Venkatesh." alt="Boot sequence"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=00FF9D&center=true&vCenter=true&width=900&lines=Security+Research+%7C+Python+Developer;Building+Secure+Applications;SOC+Analyst+in+Progress;Continuous+Learning+Never+Stops" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&pause=1000&color=00FF9D&center=true&vCenter=true&width=900&lines=Security+Research+%7C+Python+Developer;Building+Secure%2C+Production-Grade+Applications;SOC+Analyst+in+Training;Engineering+for+Resilience%2C+Not+Just+Functionality" alt="Typing SVG"/>
 </a>
-
+<br>
+<br>
 <p>
   <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&labelColor=0D1117"/>
   <img src="https://img.shields.io/badge/LOCATION-Andhra%20Pradesh%2C%20IN-00D9FF?style=for-the-badge&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/MODE-BUILD%20%26%20BREACH-FF005C?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/OPEN%20TO-Internships%20%26%20Collaboration-FF005C?style=for-the-badge&labelColor=0D1117"/>
+</p>
+
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/RESUME-Download-00FF9D?style=for-the-badge&logo=readdotcv&logoColor=0D1117&labelColor=0D1117"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Site-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=0D1117&labelColor=0D1117"/></a>
+  <a href="mailto:venkateshtambabathula99@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Get%20in%20Touch-FF005C?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=0D1117"/></a>
 </p>
 
 </div>
@@ -140,21 +143,18 @@ I'm a Cybersecurity-focused Computer Science student who learns best by building
 
 <img src="https://quickchart.io/chart?bkg=%230D1117&width=420&height=420&devicePixelRatio=2&c=%7B%22type%22%3A%22radar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Python%22%2C%22Django%22%2C%22Linux%22%2C%22Networking%22%2C%22Threat%20Detection%22%2C%22Web%20Security%22%2C%22Cloud%22%2C%22AI%2FML%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Skill%20Level%22%2C%22data%22%3A%5B90%2C85%2C80%2C75%2C65%2C70%2C55%2C60%5D%2C%22backgroundColor%22%3A%22rgba%280%2C255%2C157%2C0.25%29%22%2C%22borderColor%22%3A%22%2300FF9D%22%2C%22pointBackgroundColor%22%3A%22%2300D9FF%22%2C%22pointBorderColor%22%3A%22%2300D9FF%22%2C%22borderWidth%22%3A2%7D%5D%7D%2C%22options%22%3A%7B%22scales%22%3A%7B%22r%22%3A%7B%22angleLines%22%3A%7B%22color%22%3A%22%232a2f3a%22%7D%2C%22grid%22%3A%7B%22color%22%3A%22%232a2f3a%22%7D%2C%22pointLabels%22%3A%7B%22color%22%3A%22%2300FF9D%22%2C%22font%22%3A%7B%22size%22%3A12%7D%7D%2C%22ticks%22%3A%7B%22display%22%3Afalse%2C%22beginAtZero%22%3Atrue%7D%7D%7D%2C%22plugins%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Afalse%7D%7D%7D%7D" width="380"/>
 
-<sub>📡 Self-reported proficiency, rendered live via QuickChart — edit the data array to keep this honest as you grow</sub>
 
 </div>
 
 <br>
 
-## 📟 Live System Metrics
+## 🧾 Professional Snapshot
 
 <div align="center">
 
-| 🛡️ Threats Analyzed | 🧩 Bugs Squashed | ⚙️ Projects Shipped | ☕ Caffeine Level |
-|:---:|:---:|:---:|:---:|
-| `1,337` | `90+` | `8` | `██████████ 100%` |
-
-<sub>⚠️ HUD flavor stats — swap in real numbers (commits, CVEs studied, labs completed) whenever you like</sub>
+| 🎓 Education | 🛡️ Specialization | 🚀 Projects Shipped | 📜 Certifications | 🧑‍🤝‍🧑 Training Cohort |
+|:---:|:---:|:---:|:---:|:---:|
+| B.Tech CSE (Cybersecurity) | Security Engineering & Full-Stack Development | 8+ | 4 | NextGen Freedu — Cyber Wizards |
 
 </div>
 
@@ -271,7 +271,7 @@ A multi-page portfolio (`index.html`, `developer.html`, `security.html`) present
 
 <img src="https://raw.githubusercontent.com/venkatesh-99-cbs/venkatesh-99-cbs/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 <br>
-<sub>⚙️ Renders once the <code>platane/snk</code> GitHub Action is set up in your <code>venkatesh-99-cbs/venkatesh-99-cbs</code> profile repo, writing to an <code>output</code> branch</sub>
+
 
 </div>
 
