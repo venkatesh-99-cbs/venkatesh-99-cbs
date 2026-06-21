@@ -253,30 +253,19 @@ A multi-page portfolio (`index.html`, `developer.html`, `security.html`) present
 <img src="https://raw.githubusercontent.com/venkatesh-99-cbs/venkatesh-99-cbs/main/assets/scan-divider.svg" width="100%"/>
 
 ## 📊 GitHub Analytics
-
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=venkatesh-99-cbs&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FFAB&icon_color=00D9FF&text_color=c9d1d9" width="48%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=venkatesh-99-cbs&theme=dark&hide_border=true&background=0D1117&ring=00FFAB&fire=FF005C&currStreakLabel=00D9FF" width="48%"/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatesh-99-cbs&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FFAB&text_color=c9d1d9" width="48%"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=venkatesh-99-cbs&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00FFAB&point=FF005C" width="48%"/>
-
 <img src="https://github-profile-trophy.vercel.app/?username=venkatesh-99-cbs&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1"/>
-
 <br>
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=venkatesh-99-cbs&repo=grow-more&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FFAB&icon_color=00D9FF&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=venkatesh-99-cbs&repo=portfolio&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FFAB&icon_color=00D9FF&text_color=c9d1d9" width="48%"/>
-
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=venkatesh-99-cbs&repo=Grow_More-main&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FFAB&icon_color=00D9FF&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=venkatesh-99-cbs&repo=venkatesh-99-cbs.github.io&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FFAB&icon_color=00D9FF&text_color=c9d1d9" width="48%"/>
 <img src="https://raw.githubusercontent.com/venkatesh-99-cbs/venkatesh-99-cbs/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 <br>
-
-
 </div>
-
 <img src="https://raw.githubusercontent.com/venkatesh-99-cbs/venkatesh-99-cbs/main/assets/scan-divider.svg" width="100%"/>
-
 ## 🧪 Currently Building
 
 <table>
